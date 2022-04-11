@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x385eDe07Da776a7b0cd3932119853A07a3a06720",
+  "SCAN_LINK": "https://testnet.telos.net/evm",
+  "NETWORK": {
+    "NAME": "Telos",
+    "SYMBOL": "TLOS",
+    "ID": 41
+  },
+  "NFT_NAME": "Tatya's NFT",
+  "SYMBOL": "TN",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 2850000,
+  "MARKETPLACE": "",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
